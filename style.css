@@ -1,0 +1,36 @@
+/*background and font color*/
+body{
+  background-color: #581845 ;
+  color: #FDEEA0;
+}
+/*center the image*/
+img {
+  position: relative;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%
+}
+/*various headers and paragraph css to make sure it's centered and caging font*/
+h1{
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+  text-align: center;
+  font-size: 72px;
+}
+
+h2{
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+  text-align: center;
+}
+
+p{
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+  text-align: center;
+}
+/* changing the colors for the menu so it stands out */
+div.container4{
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+  text-align: center;
+  background-color:#FDEEA0;
+   color: #581845;
+}
